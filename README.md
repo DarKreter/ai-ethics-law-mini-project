@@ -1,8 +1,8 @@
-# [Tytuł mini-projektu]
+# Analiza fairness modelu na danych LSAC
 
-**Autor:** [Imię Nazwisko], nr indeksu: [XXXXXX]
+**Autor:** Daniel Sadowski, nr indeksu: 259314
 
-**Temat:** [Numer z menu (1-29) lub "własny"] — [Nazwa tematu]
+**Temat:** [Numer z menu (1-29) lub "własny"] — nr 4
 
 **Kurs:** Aspekty prawne, społeczne i etyczne w AI, PWr 2025/2026
 
