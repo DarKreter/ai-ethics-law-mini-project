@@ -1,0 +1,4 @@
+Model,Accuracy,ROC-AUC,DPD (płeć),EOD (płeć)
+Bazowy (LR),0.85,0.902,0.183,0.108
+ThresholdOpt [DP],0.795,,0.015,0.194
+ThresholdOpt [EO],0.766,,0.093,0.018

@@ -1,0 +1,11 @@
+ipykernel
+numpy
+fairlearn
+matplotlib
+pandas
+scikit-learn
+seaborn
+aif360
+pyarrow
+datasets
+requests
